@@ -10,7 +10,7 @@
     <PackageReference Include="Boost.Proto.Actor.Hosting.Cluster" Version="1.0.0-rc4.7.100" />
     <PackageReference Include="Boost.Proto.Actor.Hosting.OpenTelemetry" Version="1.0.0-rc4.7.100" />
     <PackageReference Include="OpenTelemetry.Exporter.Jaeger" Version="1.4.0-beta.2" />
-    <PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.0.0-rc9.8" />
+    <PackageReference Include="OpenTelemetry.Extensions.Hosting" Version="1.0.0-rc9.9" />
     <PackageReference Include="OpenTelemetry.Instrumentation.AspNetCore" Version="1.0.0-rc9.8" />
 
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.2.3" />
